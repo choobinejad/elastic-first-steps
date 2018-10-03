@@ -1,0 +1,55 @@
+2625080	Yztimór	Yztimor		63.5	-19.18333	S	FRM	IS		42	8508			0		197	Atlantic/Reykjavik	2016-12-03
+2625081	Yzti-Hvammur	Yzti-Hvammur		65.85314	-17.35573	S	FRM	IS		40	6612			0		133	Atlantic/Reykjavik	2016-12-03
+2625082	Yzti Hóll	Yzti Holl		66.05512	-19.31388	S	FRM	IS		41	5200			0		142	Atlantic/Reykjavik	2016-12-03
+2625083	Yztibær	Yztibaer		66.01008	-18.4045	S	FRM	IS		40	6000			0		82	Atlantic/Reykjavik	2016-12-03
+2625084	Yztavík	Yztavik		65.91729	-18.97641	T	SDL	IS		41				0		556	Atlantic/Reykjavik	2011-03-06
+2625085	Yztavík	Yztavik		65.82066	-18.05179	S	FRM	IS		40	6602			0		118	Atlantic/Reykjavik	2016-12-03
+2625086	Yztaskálaheiði	Yztaskalaheidi		63.61135	-19.80044	V	HTH	IS		42				0		752	Atlantic/Reykjavik	2011-03-06
+2625087	Yzta-Rjúkandi	Yzta-Rjukandi		65.32722	-15.07114	H	STM	IS		38				0		179	Atlantic/Reykjavik	2011-03-06
+2625088	Yztakvísl	Yztakvisl		65.27853	-15.03123	H	STM	IS		38				0		495	Atlantic/Reykjavik	2011-03-06
+2625089	Yzta Grund	Yzta Grund		65.62011	-19.37928	S	FRM	IS		41	5706			0		29	Atlantic/Reykjavik	2016-12-03
+2625090	Yztafell	Yztafell		65.40769	-16.17957	T	HLL	IS		40	6607			0		435	Atlantic/Reykjavik	2016-12-03
+2625091	Yztafell	Yztafell	Ystafell	65.78279	-17.57795	S	FRM	IS	IS	40	6612			0		114	Atlantic/Reykjavik	2016-12-03
+2625092	Yztabæli	Yztabaeli		63.51958	-19.67106	S	FRM	IS		42	8613			0		12	Atlantic/Reykjavik	2016-12-03
+2625093	Yxnadalur	Yxnadalur		65.64798	-14.65055	T	VAL	IS		38				0		517	Atlantic/Reykjavik	2011-03-06
+2625094	Yxná	Yxna		63.9714	-17.82777	H	STM	IS		42				0		261	Atlantic/Reykjavik	2011-03-06
+2625095	Ytri-Villingadalur	Ytri-Villingadalur		65.32569	-18.26222	S	FRM	IS		40	6513			0		196	Atlantic/Reykjavik	2016-12-03
+2625096	Ytri-Vatnsleysa	Ytri-Vatnsleysa		65.66825	-16.02912	H	STM	IS		40				0		454	Atlantic/Reykjavik	2011-03-06
+2625097	Ytri Varðgjá	Ytri Vardgja		65.67128	-18.03339	S	FRM	IS		40	6513			0		152	Atlantic/Reykjavik	2016-12-03
+2625098	Ytri-Tunga	Ytri-Tunga		66.13238	-17.24416	S	FRM	IS		40	6611			0		113	Atlantic/Reykjavik	2016-12-03
+2625099	Ytritunga	Ytritunga		63.7821	-18.01333	S	FRM	IS		42	8509			0		32	Atlantic/Reykjavik	2016-12-03
+2625100	Ytri-Tjarnir	Ytri-Tjarnir		65.58315	-18.04077	S	FRM	IS		40	6513			0		212	Atlantic/Reykjavik	2016-12-03
+2625101	Ytri-Thrándará	Ytri-Thrandara		64.73293	-14.80206	H	STM	IS		38				0		298	Atlantic/Reykjavik	2011-03-06
+2625102	Ytri-Sveinar	Ytri-Sveinar		65.76815	-16.43542	T	HLLS	IS		40				0		372	Atlantic/Reykjavik	2011-03-06
+2625103	Ytri-Svartárdalur	Ytri-Svartardalur		65.3228	-19.16726	S	FRM	IS		41	5200			0		341	Atlantic/Reykjavik	2016-12-03
+2625104	Ytri-Strákur	Ytri-Strakur		65.93667	-17.77706	T	PK	IS		40	6612			0		1061	Atlantic/Reykjavik	2016-12-03
+2625105	Ytriskógar	Ytriskogar		63.52726	-19.49101	S	FRM	IS		42	8613			0		128	Atlantic/Reykjavik	2016-12-03
+2625106	Ytri-Sauðahraun	Ytri-Saudahraun		65.50345	-14.08536	L	GRAZ	IS		38				0		360	Atlantic/Reykjavik	2011-03-06
+2625107	Ytri-Sauðá	Ytri-Sauda		64.89165	-14.79717	H	STM	IS		38				0		518	Atlantic/Reykjavik	2011-03-06
+2625108	Ytri-Sauðá	Ytri-Sauda		64.86667	-15.18333	H	STM	IS		38				0		521	Atlantic/Reykjavik	1994-01-14
+2625109	Ytri-Reistará	Ytri-Reistara		65.82552	-18.24418	S	FRM	IS		40	6515			0		46	Atlantic/Reykjavik	2016-12-03
+2625110	Ytri-Nýpur	Ytri-Nypur		65.79724	-14.83965	S	FRM	IS		38	7502			0		16	Atlantic/Reykjavik	2016-12-03
+2625111	Ytri-Neslönd	Ytri-Nesloend		65.61667	-17	S	FRM	IS		40	6607			0		279	Atlantic/Reykjavik	2016-12-03
+2625112	Ytrimúli	Ytrimuli		65.09154	-17.54792	T	MT	IS		40	6612			0		659	Atlantic/Reykjavik	2016-12-03
+2625113	Ytri-Mosar	Ytri-Mosar		65.20068	-17.49036	L	GRAZ	IS		40				0		622	Atlantic/Reykjavik	2011-03-06
+2625114	Ytri-Márstaðir	Ytri-Marstadir		65.82878	-18.60362	S	FRM	IS		40	6400			0		73	Atlantic/Reykjavik	2016-12-03
+2625115	Ytri-Leikskálaá	Ytri-Leikskalaa		65.90635	-17.57603	S	FRM	IS		40	6612			0		19	Atlantic/Reykjavik	2016-12-03
+2625116	Ytri Langamýri	Ytri Langamyri		65.49651	-19.87301	S	FRM	IS		41	5612			0		99	Atlantic/Reykjavik	2016-12-03
+2625117	Ytri-Lambadalsá	Ytri-Lambadalsa		65.36448	-14.28708	H	STM	IS		38				0		132	Atlantic/Reykjavik	2011-03-06
+2625118	Ytri-Kötluá	Ytri-Kotlua		65.30841	-14.22452	H	STM	IS		38				0		449	Atlantic/Reykjavik	2011-03-06
+2625119	Ytri-Kot	Ytri-Kot		65.45	-19.01667	S	FRM	IS		41	5706			0		214	Atlantic/Reykjavik	2016-12-03
+2625120	Ytri-Kleif	Ytri-Kleif		64.82556	-14.20937	S	FRM	IS		38	7613			0		186	Atlantic/Reykjavik	2016-12-03
+2625121	Ytri-Kambhóll	Ytri-Kambholl		65.86407	-18.26809	S	FRM	IS		40	6515			0		22	Atlantic/Reykjavik	2016-12-03
+2625122	Ytri-Hvíta	Ytri-Hvita		65.21477	-18.6548	H	STM	IS		41				0		425	Atlantic/Reykjavik	2011-02-07
+2625123	Ytri Húsabakki	Ytri Husabakki		65.63789	-19.47196	S	FRM	IS		41	5200			0		17	Atlantic/Reykjavik	2016-12-03
+2625124	Ytri-Hrútá	Ytri-Hruta		65.65141	-15.46936	H	STM	IS		38				0		435	Atlantic/Reykjavik	2011-03-06
+2625125	Ytri-Hraunlækur	Ytri-Hraunlakur		65.20113	-19.04806	H	STM	IS		41				0		526	Atlantic/Reykjavik	2011-02-07
+2625126	Ytri-Hraunkúla	Ytri-Hraunkula		65.21202	-19.1434	T	HLL	IS		41	5200			0		656	Atlantic/Reykjavik	2016-12-03
+2625127	Ytri-Hóll	Ytri-Holl		65.85183	-17.8702	S	FRM	IS		40	6612			0		177	Atlantic/Reykjavik	2016-12-03
+2625128	Ytri-Hóll	Ytri-Holl		65.61759	-18.01387	S	FRM	IS		40	6513			0		104	Atlantic/Reykjavik	2016-12-03
+2625129	Ytri Hofdalir	Ytri Hofdalir		65.68395	-19.38477	S	FRM	IS		41	5200			0		40	Atlantic/Reykjavik	2016-12-03
+2625130	Ytri-Hlíð	Ytri-Hlid		65.69211	-15.03532	S	FRM	IS		38	7502			0		89	Atlantic/Reykjavik	2016-12-03
+2625131	Ytri-Heiðará	Ytri-Heidara		64.86951	-15.34149	H	STM	IS		38				0		503	Atlantic/Reykjavik	2011-03-06
+2625132	Ytri-Hamar	Ytri-Hamar		65.71504	-15.17158	S	FRMQ	IS		38	7502			0		266	Atlantic/Reykjavik	2016-12-03
+2625133	Ytri-Háls	Ytri-Hals		66.34417	-15.86031	T	SLP	IS		40				0		100	Atlantic/Reykjavik	2011-03-06
+2625134	Ytri Hagi	Ytri Hagi		65.90548	-18.27776	S	FRM	IS		40	6400			0		-9999	Atlantic/Reykjavik	2016-12-03
