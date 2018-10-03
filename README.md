@@ -21,8 +21,8 @@ Feel free to open issues if (when) you find any!
  1. Use Elastic Cloud to spin up an Elasticsearch cluster
  1. Connect to the Elasticsearch cluster and explore a couple of its APIs
  1. Load some data from a sample .csv file
- 1. Explore the _/\_search_ API
- 1. Finally, we'll see some of the visualization/dashboard capabilities built into the Kibana application.
+ 1. (TODO) Explore the _/\_search_ API
+ 1. (TODO) Finally, we'll see some of the visualization/dashboard capabilities built into the Kibana application.
  
 
 ## How to Cloud
