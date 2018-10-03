@@ -13,6 +13,8 @@ quick tour uses Python, you'll also want to have the
 This tutorial assumes that you're using Python 3.x, that you've cloned this Git repo, and that you've run
 `pip install -r requirements.txt --upgrade` from this project directory.
 
+Feel free to open issues if (when) you find any!
+
 
 ##Enough chit-chat. Agenda time!
 
