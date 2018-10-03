@@ -16,7 +16,7 @@ This tutorial assumes that you're using Python 3.x, that you've cloned this Git 
 Feel free to open issues if (when) you find any!
 
 
-##Enough chit-chat. Agenda time!
+## Enough chit-chat. Agenda time!
 
  1. Use Elastic Cloud to spin up an Elasticsearch cluster
  1. Connect to the Elasticsearch cluster and explore a couple of its APIs
